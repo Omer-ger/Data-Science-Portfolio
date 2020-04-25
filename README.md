@@ -1,6 +1,6 @@
 # Data Science:
 
-  - <li><a href="https://github.com/Omer-ger/Data-Science-Portfolio/blob/master/movies_for_github.ipynb">Predicting movie revenue</a>: A model to predict movie revenue.</li>
+  - <li><a href="https://github.com/Omer-ger/Data-Science-Portfolio/blob/master/Predicting_movie_revenue.ipynb">Predicting movie revenue</a>: A model to predict movie revenue. The data consists of past films from The Movie Database. The goal is to predict their overall worldwide box office revenue. Data points provided include cast, crew, plot keywords, budget, posters, release dates, languages, production companies, and countries.</li>
 
 
 # Data Analysis:
